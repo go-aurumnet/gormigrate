@@ -27,3 +27,5 @@ _testmain.go
 *.sqlite3
 /bin
 /.env
+
+.idea
