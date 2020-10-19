@@ -1,4 +1,4 @@
-module github.com/go-gormigrate/gormigrate/v2
+module github.com/go-aurumnet/gormigrate/v2
 
 go 1.15
 
